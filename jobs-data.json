@@ -1,0 +1,29 @@
+{
+    "featuredJobs": [
+      {
+        "title": "Front-end Developer",
+        "company": "Acme Corporation",
+        "location": "San Francisco, CA",
+        "salary": "$100,000 - $120,000",
+        "description": "We are seeking a skilled front-end developer to join our team and help build our next-generation web applications. The ideal candidate will have experience with HTML, CSS, JavaScript, and React. If you're passionate about building great user experiences and want to work on a cutting-edge product, this is the job for you!",
+        "logo": "acme-corporation.png"
+      },
+      {
+        "title": "Back-end Developer",
+        "company": "Widgets, Inc.",
+        "location": "New York, NY",
+        "salary": "$120,000 - $140,000",
+        "description": "We're looking for a talented back-end developer to help us build our next-generation web services. The ideal candidate will have experience with Python, Django, and AWS. If you're passionate about building scalable, reliable, and secure web services, we want to hear from you!",
+        "logo": "widgets-inc.png"
+      },
+      {
+        "title": "Full-stack Developer",
+        "company": "MegaCorp",
+        "location": "Los Angeles, CA",
+        "salary": "$140,000 - $160,000",
+        "description": "We are seeking a full-stack developer to join our growing team and help us build our next-generation e-commerce platform. The ideal candidate will have experience with React, Node.js, and MongoDB. If you're passionate about building scalable and performant web applications, this is the job for you!",
+        "logo": "megacorp.png"
+      }
+    ]
+  }
+  
